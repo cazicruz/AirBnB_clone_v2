@@ -46,4 +46,5 @@ class BaseModel:
         return dictionary
 
     def delete(self):
+        pass
         
